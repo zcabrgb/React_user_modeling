@@ -1,0 +1,30 @@
+.news-data {
+  padding-right: 60px;
+  font-size: 125%;
+}
+
+.news-data i {
+  margin-right: 5px;
+  color: #ffab40;
+  vertical-align: middle;
+}
+
+.news-data p {
+  margin-bottom: 15px;
+}
+
+.news-img-container {
+  width: 200px;
+  height: 140px;
+  overflow: hidden;
+}
+
+.news-img-container .card-title {
+  text-shadow: 0px 2px 3px black;
+}
+
+.news-img {
+  height: 140px;
+  overflow: hidden;
+  width: initial;
+}
